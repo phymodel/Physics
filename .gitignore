@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# editors / OS misc
+.vscode/
+.idea/
+*.swp
+*~
+Thumbs.db
